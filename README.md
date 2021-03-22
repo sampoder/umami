@@ -1,4 +1,4 @@
-# umami
+# umami-fork-with-caprover
 
 Umami is a simple, fast, website analytics alternative to Google Analytics.
 
